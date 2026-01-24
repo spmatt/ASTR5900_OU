@@ -10,6 +10,6 @@ Some suggestions for managing your GitHub repositories for this class:
 
 Either should work fine.
 
-# Some LaTeX stuff
+## Some LaTeX stuff
 
 For your LaTeX document, you can use any template that looks clear and nice.  But I recommend you use a template for a professional journal that you have or will likely publish a paper in.  Overleaf has a repository of many many templates, and that includes templates for most journals, so you could likely find your template there.  
